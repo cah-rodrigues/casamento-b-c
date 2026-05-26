@@ -19,8 +19,11 @@ function Hero () {
           3 de Janeiro de 2027
         </p>
     
-        <p className="mt-6 max-w-lg text-[#7a6a63] leading-8">
-          O início da nossa eternidade.
+        <p className="mt-6 max-w-lg text-[#5c4b43] leading-8">
+            "Para que todas as pessoas vejam e saibam,
+            Prestem atenção e compreendam
+            Que a mão de Jeová fez isso
+            E que o Santo de Israel o realizou.” - Isaías 41:20
         </p>
     
         <button className="mt-10 bg-[#cfa79b] text-white px-8 py-4 rounded-full shadow-lg hover:opacity-80 hover:scale-105 transition">
