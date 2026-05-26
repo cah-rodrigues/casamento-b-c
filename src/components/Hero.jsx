@@ -20,10 +20,9 @@ function Hero () {
         </p>
     
         <p className="mt-6 max-w-lg text-[#5c4b43] leading-8">
-            "Para que todas as pessoas vejam e saibam,
-            Prestem atenção e compreendam
-            Que a mão de Jeová fez isso
-            E que o Santo de Israel o realizou.” - Isaías 41:20
+            "Para que todas as pessoas vejam e saibam, <br />
+            Prestem atenção e compreendam <br />
+            Que a mão de Jeová fez isso.” - Isaías 41:20
         </p>
     
         <button className="mt-10 bg-[#cfa79b] text-white px-8 py-4 rounded-full shadow-lg hover:opacity-80 hover:scale-105 transition">
