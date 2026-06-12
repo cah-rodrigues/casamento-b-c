@@ -1,17 +1,24 @@
+import { Routes, Route } from "react-router-dom"
+
 import Navbar from "./components/Navbar"
-import Hero from "./components/Hero"
-import Gallery from "./components/Gallery"
-
-
+import Home from "./pages/Home"
+import Online from "./pages/Online"
+import Presencial from "./pages/Presencial"
+import Footer from "./components/Footer"
 
 function App() {
   return (
     <div className="min-h-screen bg-[#f8f5f2]">
-
       <Navbar />
-      <Hero /> 
-      <Gallery />
 
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/online" element={<Online />} />
+        <Route path="/presencial" element={<Presencial />} />
+      </Routes>
+
+      <Footer />
+      
     </div>
   )
 }

@@ -10,7 +10,7 @@ import foto9 from "../assets/galeria/9.png"
 import foto11 from "../assets/galeria/11.png"
 import foto17 from "../assets/galeria/17.png"
 import foto18 from "../assets/galeria/18.png"
-import foto19 from "../assets/galeria/19.png"
+/*import foto19 from "../assets/galeria/19.png"*/
 import foto20 from "../assets/galeria/20.png"
 import foto23 from "../assets/galeria/23.jpg"
 import foto27 from "../assets/galeria/27.png"
@@ -26,7 +26,7 @@ const imagensOriginais = [
   foto11,
   foto17,
   foto18,
-  foto19,
+  /*foto19,*/
   foto20,
   foto23,
   foto27,
